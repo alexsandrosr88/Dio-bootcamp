@@ -5,3 +5,7 @@ O Bootcamp TQI Fullstack Developer é um programa gratuito para formação em de
 Ministrado pela Juliana Mascarenhas.
 ### Introdução ao Git e ao GitHub
 Ministrado pelo Otávio Reis Perkles.
+### Introdução a criação de websites com HTML5 e CSS3
+Ministrado pelo Lucas Vilaboim.
+### Animações e Transitions com CSS3.
+Ministrado pela Gabriela Pinheiro.
